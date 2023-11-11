@@ -17,7 +17,7 @@
 
 # comparison operators
 # > < >= <= == !=
-# returns boolena value 
+# returns boolean value 
 
 
 # ----------------------------------------------------
