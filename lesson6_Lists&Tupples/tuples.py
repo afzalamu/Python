@@ -25,8 +25,8 @@ print(newtuple)
 print(type(newtuple))
 
 
----------------------------------------
-unpacking a tuple
+# ---------------------------------------
+# unpacking a tuple
 (one, two, *hey) = yourtuple
 print(one)
 print(two)
