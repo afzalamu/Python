@@ -22,7 +22,9 @@ Feel free to explore the code and provide feedback or suggestions!
 
 ## Connect
 
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/your-twitter)
+- **GitHub:** [Your GitHub Profile](https://github.com/afzalamu)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/malik-afzal)
+
+
 
 Happy coding! 🚀
