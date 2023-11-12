@@ -22,8 +22,8 @@ Feel free to explore the code and provide feedback or suggestions!
 
 ## Connect
 
-- **GitHub:** [Your GitHub Profile](https://github.com/afzalamu)
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/malik-afzal)
+- **GitHub:** [View It](https://github.com/afzalamu)
+- **LinkedIn:** [View It](www.linkedin.com/in/malik-afzal)
 
 
 
